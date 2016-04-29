@@ -9,7 +9,7 @@ Schemr can make designing everything from monolithic software stacks to real tim
 critical microservices easy as pi. Built from the ground up to be a modular, yet
 minimal and simplistic framework, Schemr can get you up and running in no time.
 
-Built to avoid both the most common and rare problems with app Prototyping,
+Built to avoid both the most common and rare problems with App Prototyping,
 Schemr can integrate easily with your team's design process, and can often provide
 valuable insight to avoid code bloat and logical bugs. 
 

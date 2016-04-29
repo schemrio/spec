@@ -5,7 +5,7 @@ Schemr
 
 * Introduction
 
-Schemr is a modern flexible general purpose modeling language  with built for
+Schemr is a modern flexible general purpose modeling language built for
 the modern Web App. With an Isolation Oriented Architecture paired with 
 bleeding-edge design innovation used daily by Fortune 500 companies baked in, 
 Schemr can make designing everything from monolithic software stacks to real time

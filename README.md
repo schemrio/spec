@@ -1,7 +1,5 @@
 ![logo](https://i.imgur.com/Jl4O2sm.png)
 
-# Introduction
-
 Schemr is a modern flexible general purpose modeling language built for
 the modern Web App. With an Isolation Oriented Architecture paired with 
 bleeding-edge design innovation used daily by Fortune 500 companies baked in, 

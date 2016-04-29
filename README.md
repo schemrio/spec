@@ -1,9 +1,6 @@
-Schemr
-=====
-
 ![logo](https://i.imgur.com/Jl4O2sm.png)
 
-* Introduction
+# Introduction
 
 Schemr is a modern flexible general purpose modeling language built for
 the modern Web App. With an Isolation Oriented Architecture paired with 
@@ -16,7 +13,7 @@ Built to avoid both the most common and rare problems with app Prototyping,
 Schemr can integrate easily with your team's design process, and can often provide
 valuable insight to avoid code bloat and logical bugs. 
 
-* Contributing
+# Contributing
 Schemr is still in it's formative stages, but watch this space for updates for
 opportunities as we move forward with the industry's most disruptive innovation
 till date.

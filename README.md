@@ -24,8 +24,3 @@ to date.
 Schemr is dedicated to providing a safe space for its contributors, and to
 build a diverse home for tech. All contributions and project activity are
 covered under the Contributor Covenant, which project members should uphold.
-
-# Contributor Covenant
-
-- Be nice and uphold the safe space.
-
